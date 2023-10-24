@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6BD44910-B934-412B-AFB5-DBF86553B242"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5EDA9B8-FF67-4A29-9EFC-E802C755B1D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTest/UnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5EDA9B8-FF67-4A29-9EFC-E802C755B1D1 - e496e3cb0c6422f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUp() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "C5EDA9B8-FF67-4A29-9EFC-E802C755B1D1 - e496e3cb0c642137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUp() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "C5EDA9B8-FF67-4A29-9EFC-E802C755B1D1 - e496e3cb0c642137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUp() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27D3D6AC-4519-4AA9-9E2E-287EDA0AF32D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTest/UnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setUpWithError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27D3D6AC-4519-4AA9-9E2E-287EDA0AF32D - 8b3888386231c31d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUpWithError() throws -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "27D3D6AC-4519-4AA9-9E2E-287EDA0AF32D - 8b3888386231c31d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUpWithError() throws -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "27D3D6AC-4519-4AA9-9E2E-287EDA0AF32D - 8b3888386231c37e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.setUpWithError() throws -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9149B802-6A08-4B18-AE11-95C056CDB290"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTest/UnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "MyMathTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9149B802-6A08-4B18-AE11-95C056CDB290 - 83c6568012cecde8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() throws -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "9149B802-6A08-4B18-AE11-95C056CDB290 - 9de5afd61598aeba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "9149B802-6A08-4B18-AE11-95C056CDB290 - 9de5afd61598aeba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5D8A87B-8F11-4510-8FDD-32CE37F0EEC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTest/UnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "MyMathTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E5D8A87B-8F11-4510-8FDD-32CE37F0EEC1 - 83c6568012cec23e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() throws -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "E5D8A87B-8F11-4510-8FDD-32CE37F0EEC1 - 9de5afd61598a16c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "E5D8A87B-8F11-4510-8FDD-32CE37F0EEC1 - 9de5afd61598a16c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTest.MyMathTests.testOnAppear() -&gt; ()"
+                  moduleName = "UnitTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/birgersolution/Projects/JoinUS/UnitTest/UnitTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
